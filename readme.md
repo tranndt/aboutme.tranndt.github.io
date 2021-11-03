@@ -24,9 +24,12 @@ You will need:
 
 ### 1. Initialize a GitHub repository for your source files
 
-- In your Github Profile, select **Repositories** and click **New**
-- Name your repository as **ACCOUNT-NAME.github.io**. Replace ACCOUNT-NAME with your GitHub account name.
-- Include a README.md (Optional)
+- In your Github main page ([github.com](github.com)), on the **Repositories** sidebar and click **New**
+
+![1_repo](./assets/1_repo.jpg)
+
+- Name your repository as **ACCOUNT-NAME.github.io**. Replace ACCOUNT-NAME with your GitHub account name. Optionally, you can choose to **Add a README file**
+![1_create_repo](./assets/1_create_repo.jpg)
 
 ### 2. Upload your Markdown resume
 
@@ -48,7 +51,7 @@ You will need:
 
 ## Authors and Acknowledgements
 
-The author of this tutorial is [Jason Tran](), with special acknowledgement to [Andrew Etter and his book "Modern Technical Writing \<An Introduction to Software Documentation\>"](#more-resources)
+The author of this tutorial is [Jason Tran](https://github.com/tranndt), with special acknowledgement to [Andrew Etter and his book "Modern Technical Writing \<An Introduction to Software Documentation\>"](#more-resources)
 
 ## FAQs
 
