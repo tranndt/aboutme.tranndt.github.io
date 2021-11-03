@@ -43,6 +43,10 @@ You will need:
 - Choose a Theme (optional)
 - Click on the URL under GitHub Pages to view your site
 
+### 4. Final website
+
+![3_site](./assets/3_site.gif)
+
 ## More resources
 
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
