@@ -19,8 +19,11 @@ International College of Manitoba
 ## <center> TECHNICAL SKILLS</center>
 
 **Programming Languages:** Java, Python, C/C++, C#, JavaScript, SQL, R, Assembly.
+
 **Libraries:** NumPy, Scikit-learn, Pandas, PyTorch, Matplotlib, Imbalanced-Learn (Python).
+
 **Applications:** Android Studio, Microsoft Visual Studio Code, Jupyter Notebook, Unity Engine.
+
 **Platforms:** Git, Fork, Slack, Deputy, Trello, Microsoft Teams, Microsoft Office, Doodle.
 
 ## <center> RELEVANT EXPERIENCE</center>

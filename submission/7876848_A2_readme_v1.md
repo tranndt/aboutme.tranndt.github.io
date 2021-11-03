@@ -34,7 +34,7 @@ You will need:
 ### 2. Upload your Markdown resume
 
 - First, rename your Markdown resume as ```index.md```. This will allow GitHub Pages to recognize that this is the file you want to host
-- In your GitHub, click **Upload file**, and select the file from its local location.
+- In your GitHub, click **Add file**, then **Upload files**, and select the file from its local location.
 - Click **Commit changes**
 
 ### 3. Set up your GitHub Pages site
@@ -42,6 +42,8 @@ You will need:
 - Go to Settings > Pages on your GitHub.
 - Choose a Theme (optional)
 - Click on the URL under GitHub Pages to view your site
+
+![2](./assets/2_links.jpg)
 
 ### 4. Final website
 
