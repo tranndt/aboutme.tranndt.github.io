@@ -11,7 +11,7 @@ University of Manitoba
 
 **University Transfer Program II, Computer Science, GPA: 4.40** |  *Sep 2018 - Aug 2019*
 International College of Manitoba
-- **ICM Leadership Excellence Award** | *Feb 2020*
+- **ICM Leadership Excellence Award** \| *Feb 2020*
 - **ICM Navitas Merit Scholarship** | *Mar 2019*
 *Awarded to two students with the highest GPA each term.*
 
