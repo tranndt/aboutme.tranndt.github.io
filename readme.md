@@ -1,12 +1,12 @@
-A preview of my resume, as hosted on [tranndt.github.io](tranndt.github.io)
+A preview of my resume, as hosted on [tranndt.github.io](https://tranndt.github.io/)
 
 ----
 
 # <center> Jase Tran </center>
-<center>she/her</center>
-<center>tranndt@myumanitoba.ca</center>
-<center>(431) 335 4421</center>
-<center>linkedin.com/in/tranndt</center>
+- <center>she/her</center>
+- <center>tranndt@myumanitoba.ca</center>
+- <center>(431) 335 4421</center>
+- <center>linkedin.com/in/tranndt</center>
 
 ## <center>EDUCATION AN AWARDS </center>
 
@@ -29,7 +29,7 @@ University of Manitoba
 
 ## <center> RELEVANT EXPERIENCE</center>
 
-**Data Analytics Developer (Co-op)** | **Manitoba Hydro** | *Jan 2022 - Dec 2022*
+**Data Analytics Developer (Co-op)** - **Manitoba Hydro** | *Jan 2022 - Dec 2022*
 
 Manitoba Hydro is the electric power and natural gas utility corporation in Manitoba.
 
@@ -40,7 +40,7 @@ Manitoba Hydro is the electric power and natural gas utility corporation in Mani
 -	Conducted thorough analyses of test results and feature importance and presented effective visualizations using Python and PowerBI.
 
 
-**Undergraduate Research Assistant (Co-op)** | **University of Manitoba's Database and Data Mining Lab**| *May 2021 - Aug 2021*
+**Undergraduate Research Assistant (Co-op)** - **University of Manitoba's Database and Data Mining Lab** | *May 2021 - Aug 2021*
 
 Recipient of the 2021 Undergraduate Summer Research Award. Supervised by Dr. Carson Leung, Lab Director.
 
@@ -50,7 +50,7 @@ Recipient of the 2021 Undergraduate Summer Research Award. Supervised by Dr. Car
 -	Utilized Python packages such as PyTorch, Weights & Biases, and Matplotlib to develop, track, and organize the ML solutions.
 -	Additionally, as a team, developed an LSTM-based solution for traffic load imbalance forecasting and a schedule balancing algorithm, winning the Bison Transport's Nexus Data Challenge 2021. 
 
-**Undergraduate Research Assistant (Undergraduate Research Award)** | **University of Manitoba**| *May 2020 - Aug 2020*
+**Undergraduate Research Assistant (Undergraduate Research Award)** - **University of Manitoba** | *May 2020 - Aug 2020*
 
 Supervised by Dr. Mike Domaratzki, then Head of the Department of Computer Science at the University of Manitoba
 
