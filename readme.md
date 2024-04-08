@@ -1,72 +1,98 @@
-# How To Host A Resume on GitHub Pages
+A preview of my resume, as hosted on [tranndt.github.io](tranndt.github.io)
 
-## Purpose
+----
 
-The purpose of this tutorial is to guide users on how to host a resume online using Markdown and GitHub Pages.
+# <center> Jase Tran </center>
+<center>she/her</center>
+<center>tranndt@myumanitoba.ca</center>
+<center>(431) 335 4421</center>
+<center>linkedin.com/in/tranndt</center>
 
-## Prerequisites
+## <center>EDUCATION AN AWARDS </center>
 
-You will need:
+**Bachelor of Computer Science, Honours (Co-op), cGPA: 4.05/4.50** | *Sep 2018 - Aug 2023*
 
-- **A resume written in Markdown.**
-  - Mardown (.md) is a lightweight Markup Language that is very widely used in documentation. 
+University of Manitoba
 
-  - There are many Mardown flavors (styles) to choose from, such as [GitHub Flavored Markdown](https://github.github.com/gfm/) or [CommonMark](https://spec.commonmark.org/0.28/). GitHub Flavored Markdown is a popular and fine choice for simple pages, such as the resume we are trying to host. ([Andrew Etter](#more-resources))
+- Excelled in Machine Learning, Artificial Intelligence, Databases, Software Engineering and Statistics.
+- Achievements: Academic Merit Scholarship (2019), Leadership Excellence Award (2020), Undergraduate Research Award (2020), Undergraduate Summer Research Award (2021), International Undergraduate Student Scholarship (2021).
 
-  - Resources for learning Markdown can be found under [More Resources](#more-resources)
+## <center> TECHNICAL SKILLS</center>
 
-- **A code editor**
-  - This will be used to edit your resume source files (e.g. writing the resume in Markdown, changing Jekyll front matters, etc.). Some popular choices for code editors are [Atom](https://atom.io/) and [Microsoft VS Code](https://code.visualstudio.com/).
+**Programming Languages:** Java, Python, C/C++, C#, JavaScript, SQL, R, Assembly.
 
-  - Alternatively, [HackMD](https://hackmd.io/) is a free online Markdown editor that also allows you to create a markdown document.
+**Libraries:** NumPy, Scikit-learn, Pandas, PyTorch, Matplotlib, Imbalanced-Learn (Python).
 
-## Instructions
+**Applications:** Android Studio, Microsoft Visual Studio Code, Jupyter Notebook, Unity Engine.
 
-### 1. Initialize a GitHub repository for your source files
+**Platforms:** Git, Fork, Slack, Deputy, Trello, Microsoft Teams, Microsoft Office, Doodle.
 
-- In your Github main page ([github.com](github.com)), on the **Repositories** sidebar and click **New**
+## <center> RELEVANT EXPERIENCE</center>
 
-![1_repo](./assets/1_repo.jpg)
+**Data Analytics Developer (Co-op)** | **Manitoba Hydro** | *Jan 2022 - Dec 2022*
 
-- Name your repository as **ACCOUNT-NAME.github.io**. Replace ACCOUNT-NAME with your GitHub account name. Optionally, you can choose to **Add a README file**
-![1_create_repo](./assets/1_create_repo.jpg)
+Manitoba Hydro is the electric power and natural gas utility corporation in Manitoba.
 
-### 2. Upload your Markdown resume
+-	Developed a high-accuracy ML solution for customer credit classification, using Azure, achieving over 0.90 F1-score and balanced accuracy on a large dataset. Solution provided high quality insights for debt prevention and recovery campaigns.
+-	Designed a new rigorous solution that addressed the previous solution's weaknesses and adhered to data privacy compliance and ethical AI guidelines.
+-	Performed extensive data gathering and transformation using SQL Server, resulting in clean and organized datasets.
+-	Utilized Azure Studio to develop and optimize high performance models.
+-	Conducted thorough analyses of test results and feature importance and presented effective visualizations using Python and PowerBI.
 
-- First, rename your Markdown resume as ```index.md```. This will allow GitHub Pages to recognize that this is the file you want to host
-- In your GitHub, click **Add file**, then **Upload files**, and select the file from its local location.
-- Click **Commit changes**
 
-### 3. Set up your GitHub Pages site
+**Undergraduate Research Assistant (Co-op)** | **University of Manitoba's Database and Data Mining Lab**| *May 2021 - Aug 2021*
 
-- Go to Settings > Pages on your GitHub.
-- Choose a Theme (optional)
-- Click on the URL under GitHub Pages to view your site
+Recipient of the 2021 Undergraduate Summer Research Award. Supervised by Dr. Carson Leung, Lab Director.
 
-![2](./assets/2_links.jpg)
+-	Led a team of three, developing autoencoder models capable of accurately predicting COVID-19 patients based on blood test results, functioning as a quick and accessible alternative to lab tests.
+-	Solution achieved sensitivity (0.99) and F1-score (0.85) that outperformed conventional ML algorithms in few-shot learning environments.
+-	Conducted meticulous academic research and writing, coauthoring three IEEE publications on these solutions.
+-	Utilized Python packages such as PyTorch, Weights & Biases, and Matplotlib to develop, track, and organize the ML solutions.
+-	Additionally, as a team, developed an LSTM-based solution for traffic load imbalance forecasting and a schedule balancing algorithm, winning the Bison Transport's Nexus Data Challenge 2021. 
 
-### 4. Final website
+**Undergraduate Research Assistant (Undergraduate Research Award)** | **University of Manitoba**| *May 2020 - Aug 2020*
 
-![3_site](./assets/3_site.gif)
+Supervised by Dr. Mike Domaratzki, then Head of the Department of Computer Science at the University of Manitoba
 
-## More resources
+- Modeled highly imbalanced datasets using Machine Learning techniques.
+- Implemented oversampling tools to overcome challenges presented by such imbalance for a multi-class dataset (credit card activities), as well as experimenting with new solutions for a continuous dataset (corn yield).
+- Overall achieved an average increase of 8% in R2 regression score with the use of imbalanced sampling tools and other supporting methods.
 
-- [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Basic Markdown Syntax by markdownguide.org](https://www.markdownguide.org/basic-syntax/)
-- [Andrew Etter's Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+## <center> GROUP PROJECTS</center>
 
-## Authors and Acknowledgements
+**UMHUB (Android)** | *Jan 2021 – Apr 2021*
 
-The author of this tutorial is [Jason Tran](https://github.com/tranndt), with special acknowledgement to [Andrew Etter and his book "Modern Technical Writing \<An Introduction to Software Documentation\>"](#more-resources)
+Software Engineering 1 
 
-## FAQs
+- Application that hosts courses and other academic information for university students. Developed using Android Studio.
 
-### 1. Why is Markdown better than a Word Processor?
+**Mask Madness (Unity)** | *Jan 2021*
+CSSA Game Jam 
 
-- Word documents are great for resume, but they are horrible for documentation. They lack the online support such as HTML export features, which make them unsustainable for hosting on a website. Users also have to format it directly on Word, with no choice for separation (such as HTML, CSS, JS). Finally Word is a paid product, and is only available on Windows and macOS. ([Andrew Etter](#more-resources))
+- 3D game in which the player avoids infectious agents while completing tasks. Developed using Unity Engine.
 
-- Markdown, on the other hand, is the most used lightweight Markup Language. The advantages of Markdown formatting are that it is generally easier to read and make changes, and contains much less formatting. It is also free, and acessible to all users. Because of this simplicity and accessibility, it can also be integrated to web environment much easier than .DOCX documents. ([Andrew Etter](#more-resources))
+## <center> VOLUNTEER EXPERIENCE</center>
 
-### 2. Why can't I see the URL in my Pages settings? 
+**Student Manager** | *Sep 2019 – Sep 2020*
 
-- This likely happens because GitHub Pages does not recognize that you want to use this repository to host a page. To explicitly signal your intention, create a new branch in your repository named ```gh-pages```. Follow the similar steps and push your resume to the ```gh-pages``` branch and it should work.
+International College of Manitoba Student Council
+
+- Planned and organized monthly projects and events like game nights, movie nights, field trips, scavenger hunts, fundraising, and more.
+- Hosted weekly meetings and managed the operation of Student Council body and its members.
+- Implemented changes to the event’s formats to better engage students, which saw an average increase in attendance of 10 per event.
+
+**Orientation Presenter and Volunteer** | *Sep 2019*
+
+International College of Manitoba Orientation 
+
+- Presented at the Orientation.
+- Hosted the Q&A Desk to offer instructions and counselling to new students.
+
+## <center>ADDITIONAL WORK EXPERIENCE</center>
+
+**Language Interpreter** | *Jun 2019 – Apr 2021*
+
+Language Line Solutions/ Kelly Services Ltd., Canada 
+
+- Offered real-time over the phone interpretation services for English speaking institutions in North America and their non-English speaking customers. The institutions belong to a wide range of industries such as Healthcare, Government, Insurance, Financial, Utilities, and more.
+- Displayed excellent customer service skills and the ability to follow protocols.
